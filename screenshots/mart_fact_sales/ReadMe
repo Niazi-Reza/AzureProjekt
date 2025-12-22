@@ -8,7 +8,7 @@ denormalized, business-friendly structures.
 
 ## Components
 
-## Dimension Tables (DIM)
+## Dimension Tables (DIM_Product)
 Dimension tables contain descriptive attributes that provide context for
 analysis, such as products, regions, resellers, and salespersons.
 
@@ -17,6 +17,8 @@ Example attributes include:
 - Geographic information
 - Business partner details
 
+
+![ADF Staging Pipeline](DIM_Product.png)
 Screenshots are provided to demonstrate the populated dimension tables.
 
 ## Fact Tables (FACT)
@@ -24,6 +26,9 @@ Fact tables store quantitative business measures such as:
 - Sales quantity
 - Revenue
 - Cost
+
+
+![ADF Staging Pipeline](FactSales.png)
 
 
 
