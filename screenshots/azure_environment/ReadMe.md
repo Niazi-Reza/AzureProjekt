@@ -22,4 +22,4 @@ and the associated Resource Group.
 
 This screenshot shows the accumulated and forecasted costs for the project.
 All resources were stopped or deleted after validation to avoid unnecessary costs.
-![azure_environment](Costs.png)
+
