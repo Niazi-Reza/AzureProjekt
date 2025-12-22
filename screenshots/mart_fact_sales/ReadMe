@@ -1,18 +1,41 @@
 # Data Mart (Star Schema)
 
-This folder contains the SQL scripts for the **Data Mart layer**, which is designed
-using a **star schema**.
+This section represents the **Data Mart layer** of the data warehouse,
+modeled using a **star schema** and built on top of the Data Vault core.
 
-The Data Mart is optimized for analytical queries and reporting and is built
-on top of the Data Vault core.
+The Data Mart is designed to support analytical queries by providing
+denormalized, business-friendly structures.
 
 ## Components
 
-- **Dimension tables (DIM)**  
-  Provide descriptive context such as product, region, reseller, and salesperson.
+### Dimension Tables (DIM)
+Dimension tables contain descriptive attributes that provide context for
+analysis, such as products, regions, resellers, and salespersons.
 
-- **Fact tables (FACT)**  
-  Store measurable business events such as sales quantities, revenue, and cost.
+Example attributes include:
+- Product category and subcategory
+- Geographic information
+- Business partner details
 
-The Data Mart simplifies access to the data and enables efficient analysis
-for BI tools and ad-hoc SQL queries.
+Screenshots are provided to demonstrate the populated dimension tables.
+
+### Fact Tables (FACT)
+Fact tables store quantitative business measures such as:
+- Sales quantity
+- Revenue
+- Cost
+
+
+
+They reference the dimension tables via surrogate keys and represent
+business events at a transactional grain.
+
+Screenshots of the fact table data are included to illustrate realistic
+analytical records.
+
+## Purpose
+
+The Data Mart simplifies access to data stored in the Data Vault and enables
+efficient analysis using SQL or BI tools.
+In this project, screenshots are used to demonstrate the correctness and
+structure of the Data Mart layer.
