@@ -9,7 +9,7 @@ subsequently populate the Data Mart layer (dimension and fact tables).
 Each pipeline is designed with a clear responsibility to ensure maintainability,
 reusability, and cost efficiency.
 
-Azure Data Factory Copy Activities – Staging LayerArchitektur von Data Warehouse
+### Azure Data Factory Copy Activities – Staging LayerArchitektur von Data Warehouse
 
 ![ADF Staging Pipeline](StageArea_Pipeline.png)
 
