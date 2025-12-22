@@ -2,15 +2,15 @@
 
 This project demonstrates a complete data warehouse implementation on Azure.
 
-## Architecture
+### Architecture
 stg → Data Vault (HUB / LINK / SAT) → Star Schema (DIM / FACT)
 
-## Technologies
+### Technologies
 - Azure SQL Database (serverless)
 - Azure Data Factory
 - T-SQL
 
-## Features
+### Features
 - Data Vault modeling
 - Star schema for analytics
 - Fact and dimension tables
