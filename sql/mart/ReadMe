@@ -1,0 +1,14 @@
+# Data Mart (Star Schema)
+
+This folder contains the SQL scripts for the **analytical data mart layer**.
+
+The data mart is modeled as a **star schema** and is optimized for reporting
+and BI tools.
+
+It includes:
+- Dimension tables (DIM)
+- Fact tables (FACT)
+
+The mart layer is built from the Data Vault core and provides
+a simplified, performance-optimized view of the data for analytics
+and visualization.
