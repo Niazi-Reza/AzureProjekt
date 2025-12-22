@@ -14,7 +14,7 @@ The following screenshot shows the Azure resources used in this project,
 including Azure Data Factory, Azure SQL Database, Storage Account,
 and the associated Resource Group.
 
-![azure_environment](Resources.png)
+
 
 
 
