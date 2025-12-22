@@ -8,7 +8,7 @@ denormalized, business-friendly structures.
 
 ## Components
 
-### Dimension Tables (DIM)
+## Dimension Tables (DIM)
 Dimension tables contain descriptive attributes that provide context for
 analysis, such as products, regions, resellers, and salespersons.
 
@@ -33,7 +33,7 @@ business events at a transactional grain.
 Screenshots of the fact table data are included to illustrate realistic
 analytical records.
 
-# Purpose
+## Purpose
 
 The Data Mart simplifies access to data stored in the Data Vault and enables
 efficient analysis using SQL or BI tools.
