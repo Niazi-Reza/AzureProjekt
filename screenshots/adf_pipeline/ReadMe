@@ -10,7 +10,8 @@ Each pipeline is designed with a clear responsibility to ensure maintainability,
 reusability, and cost efficiency.
 
 
-![ADF Staging Pipeline](screenshots/adf_staging_pipeline.png)
+![ADF Staging Pipeline](screenshots/adf_pipeline/StageArea_Pipeline.png)
+
 
 
 
