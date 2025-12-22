@@ -16,4 +16,4 @@ Key characteristics of the model:
 - Load date and record source for auditability
 - Flexible and scalable design to support future extensions
 
-![Data Vault Model](screenshots/data_vault/data_vault_model.png)
+![data_vault](DataVault_AdvantureWork.png)
