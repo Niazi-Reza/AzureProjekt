@@ -1,4 +1,4 @@
-# Data Mart (Star Schema)
+## Data Mart (Star Schema)
 
 This section represents the **Data Mart layer** of the data warehouse,
 modeled using a **star schema** and built on top of the Data Vault core.
