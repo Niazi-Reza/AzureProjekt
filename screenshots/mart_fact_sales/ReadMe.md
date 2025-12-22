@@ -1,5 +1,11 @@
 ## Data Mart (Star Schema)
 
+> **Note:**  
+> In this project, the dimension tables are demonstrated both as **views** and as **physical tables**.  
+> Views are used to provide a logical, query-friendly abstraction on top of the Data Vault model,  
+> while tables are materialized for performance optimization and analytical workloads.
+
+
 This section represents the **Data Mart layer** of the data warehouse,
 modeled using a **star schema** and built on top of the Data Vault core.
 
@@ -40,7 +46,7 @@ Screenshots of the fact table data are included to illustrate realistic
 analytical records.
 
 ## Purpose
-
+Note: in this project, the dim tables are as view and also as table demonestriret. 
 The Data Mart simplifies access to data stored in the Data Vault and enables
 efficient analysis using SQL or BI tools.
 In this project, screenshots are used to demonstrate the correctness and
