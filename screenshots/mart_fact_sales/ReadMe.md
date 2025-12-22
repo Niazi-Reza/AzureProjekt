@@ -19,6 +19,8 @@ Example attributes include:
 
 
 
+![mart_fact_sales](DIM_Product.png)
+
 Screenshots are provided to demonstrate the populated dimension tables.
 
 ## Fact Tables (FACT)
@@ -27,6 +29,7 @@ Fact tables store quantitative business measures such as:
 - Revenue
 - Cost
 
+![mart_fact_sales](FactSales.png)
 
 
 
