@@ -1,4 +1,4 @@
-### Azure Data Factory Pipeline
+# Azure Data Factory Pipeline
 
 Azure Data Factory is used to orchestrate the data movement and transformations
 between the different layers of the data warehouse.
