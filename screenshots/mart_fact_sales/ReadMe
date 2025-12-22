@@ -18,7 +18,7 @@ Example attributes include:
 - Business partner details
 
 
-![ADF Staging Pipeline](DIM_Product.png)
+
 Screenshots are provided to demonstrate the populated dimension tables.
 
 ## Fact Tables (FACT)
@@ -27,8 +27,6 @@ Fact tables store quantitative business measures such as:
 - Revenue
 - Cost
 
-
-![ADF Staging Pipeline](FactSales.png)
 
 
 
