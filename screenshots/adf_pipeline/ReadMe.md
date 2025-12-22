@@ -20,6 +20,8 @@ reusability, and cost efficiency.
 
 
  ## Azure Data Factory – Data Vault Core Orchestration
+ ![ADF Staging Pipeline](Core.png)
+
 
 
 
@@ -28,6 +30,8 @@ reusability, and cost efficiency.
 
 
 ### ADF Mapping Data Flow – Produkt HUB Load
+![ADF Staging Pipeline](Product_HUB.png)
+
 
 
 
