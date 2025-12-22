@@ -11,7 +11,7 @@ reusability, and cost efficiency.
 
 
 
-### Azure Data Factory Copy Activities – Staging LayerArchitektur von Data Warehouse
+## Azure Data Factory Copy Activities – Staging LayerArchitektur von Data Warehouse
 
 ![ADF Staging Pipeline](StageArea_Pipeline.png)
 
@@ -19,13 +19,15 @@ reusability, and cost efficiency.
 
 
 
-
-
-<img width="1315" height="860" alt="Core" src="https://github.com/user-attachments/assets/14a03c91-f350-4fd8-8d56-ec93a64f95e5" />
-
+ ## Azure Data Factory – Data Vault Core Orchestration
 
 
 
+
+
+
+
+### ADF Mapping Data Flow – Produkt HUB Load
 
 
 
