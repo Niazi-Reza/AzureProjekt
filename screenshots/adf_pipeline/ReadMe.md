@@ -21,6 +21,11 @@ reusability, and cost efficiency.
 
 
 
+<img width="1315" height="860" alt="Core" src="https://github.com/user-attachments/assets/14a03c91-f350-4fd8-8d56-ec93a64f95e5" />
+
+
+
+
 
 
 
