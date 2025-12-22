@@ -1,0 +1,10 @@
+# Data Vault (Core)
+
+This folder contains the SQL scripts for the **Data Vault core model**.
+
+It includes:
+- HUB tables (business keys)
+- SAT tables (descriptive attributes)
+- LINK tables (relationships)
+
+The Data Vault layer serves as the **historized, auditable core** of the data warehouse.
