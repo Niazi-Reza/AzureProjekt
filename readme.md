@@ -1,3 +1,11 @@
+
+# Architektur von Data Warehouse:
+There are three Layers in the designed Data Warehouse:
+
+  <img width="708" height="350" alt="image" src="https://github.com/user-attachments/assets/a0c0aeb9-eabb-49e8-8cb0-d2dab2d8d20b" />
+
+
+
 # Azure Data Factory Pipeline
 Azure Data Factory is used to orchestrate the data movement and transformations between the different layers of the data warehouse.
 
