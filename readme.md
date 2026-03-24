@@ -6,7 +6,7 @@ There are three Layers in the designed Data Warehouse:
 
 
 
-# Azure Data Factory Pipeline
+# Azure Data Factory Pipeline (ETL-Prozesse)
 Azure Data Factory is used to orchestrate the data movement and transformations between the different layers of the data warehouse.
 
 The pipelines load data into the Data Vault core (HUB, LINK, SAT tables) and subsequently populate the Data Mart layer (dimension and fact tables).
