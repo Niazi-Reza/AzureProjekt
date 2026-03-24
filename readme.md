@@ -5,7 +5,7 @@ The pipelines load data into the Data Vault core (HUB, LINK, SAT tables) and sub
 
 Each pipeline is designed with a clear responsibility to ensure maintainability, reusability, and cost efficiency.
 
-Azure Data Factory Copy Activities – Staging LayerArchitektur von Data Warehouse
+## Azure Data Factory Copy Activities – Staging Layer Architektur von Data Warehouse
 ADF Staging Pipeline
 
 <img width="2032" height="1057" alt="image" src="https://github.com/user-attachments/assets/410c7ce9-ccfb-4576-a75b-e1b1f240935c" />
