@@ -13,19 +13,19 @@ The pipelines load data into the Data Vault core (HUB, LINK, SAT tables) and sub
 
 Each pipeline is designed with a clear responsibility to ensure maintainability, reusability, and cost efficiency.
 
-## Azure Data Factory Copy Activities – Staging Layer Architektur von Data Warehouse
+### Azure Data Factory Copy Activities – Staging Layer Architektur von Data Warehouse
 ADF Staging Pipeline
 
 <img width="708" height="350" alt="image" src="https://github.com/user-attachments/assets/410c7ce9-ccfb-4576-a75b-e1b1f240935c" />
 
 
-## Azure Data Factory – Data Vault Core Orchestration
+### Azure Data Factory – Data Vault Core Orchestration
 ADF Staging Pipeline
 
 <img width="708" height="350" alt="image" src="https://github.com/user-attachments/assets/b1276074-5c22-4ae2-bd66-8ee651145641" />
 
 
-## ADF Mapping Data Flow – Produkt HUB Load 
+### ADF Mapping Data Flow – Produkt HUB Load 
 ADF Staging Pipeline
 
 <img width="708" height="350" alt="image" src="https://github.com/user-attachments/assets/271595f2-e621-41b1-8a76-d3e8868eecfb" />
@@ -49,7 +49,7 @@ Flexible and scalable design to support future extensions
  <img width="708" height="350" alt="image" src="https://github.com/user-attachments/assets/f9912c03-0d78-4a16-858a-bfcf9134d5b4" />
 
 
-# Data Mart (Star Schema)
+## Data Mart (Star Schema)
 Note:
 In this project, the dimension tables are demonstrated both as views and as physical tables.
 Views are used to provide a logical, query-friendly abstraction on top of the Data Vault model,
