@@ -30,8 +30,8 @@ ADF Staging Pipeline
 
 <img width="708" height="350" alt="image" src="https://github.com/user-attachments/assets/271595f2-e621-41b1-8a76-d3e8868eecfb" />
 
-
- # Data Vault Core Model
+************************************************************************************************************************************
+ # Data Vault 2.0 Core Model (Datenmodell)
 The following diagram shows the Data Vault 2.0 core model implemented for the AdventureWorks sales domain.
 
 The model follows Data Vault best practices with a clear separation of:
