@@ -1,18 +1,17 @@
 ### Azure Data Warehouse – Data Vault to Star Schema
 
-This project demonstrates a complete end-to-end data warehouse implementation on Microsoft Azure
-using a Data Vault 2.0 core model and a star schema–based data mart.
+Azure Data Factory Pipeline
+Azure Data Factory is used to orchestrate the data movement and transformations between the different layers of the data warehouse.
 
-### Architecture
-stg → Data Vault (HUB / LINK / SAT) → Star Schema (DIM / FACT)
+The pipelines load data into the Data Vault core (HUB, LINK, SAT tables) and subsequently populate the Data Mart layer (dimension and fact tables).
 
-### Technologies
-- Azure SQL Database (Serverless)
-- Azure Data Factory
-- T-SQL
+Each pipeline is designed with a clear responsibility to ensure maintainability, reusability, and cost efficiency.
 
-### Features
-- Data Vault 2.0 modeling (HUB, LINK, SAT)
-- Star schema design for analytical workloads
-- Fact and dimension tables for reporting
-- Cost-optimized, serverless Azure setup
+Azure Data Factory Copy Activities – Staging LayerArchitektur von Data Warehouse
+ADF Staging Pipeline
+
+Azure Data Factory – Data Vault Core Orchestration
+ADF Staging Pipeline
+
+ADF Mapping Data Flow – Produkt HUB Load
+ADF Staging Pipeline
