@@ -8,17 +8,17 @@ Each pipeline is designed with a clear responsibility to ensure maintainability,
 ## Azure Data Factory Copy Activities – Staging Layer Architektur von Data Warehouse
 ADF Staging Pipeline
 
-<img width="1115" height="760" alt="image" src="https://github.com/user-attachments/assets/410c7ce9-ccfb-4576-a75b-e1b1f240935c" />
+<img width="808" height="450" alt="image" src="https://github.com/user-attachments/assets/410c7ce9-ccfb-4576-a75b-e1b1f240935c" />
 
 
 ## Azure Data Factory – Data Vault Core Orchestration
 ADF Staging Pipeline
 
-<img width="1115" height="760" alt="image" src="https://github.com/user-attachments/assets/b1276074-5c22-4ae2-bd66-8ee651145641" />
+<img width="808" height="450" alt="image" src="https://github.com/user-attachments/assets/b1276074-5c22-4ae2-bd66-8ee651145641" />
 
 
 ## ADF Mapping Data Flow – Produkt HUB Load 
 ADF Staging Pipeline
 
-<img width="1067" height="501" alt="image" src="https://github.com/user-attachments/assets/271595f2-e621-41b1-8a76-d3e8868eecfb" />
+<img width="808" height="450" alt="image" src="https://github.com/user-attachments/assets/271595f2-e621-41b1-8a76-d3e8868eecfb" />
 
